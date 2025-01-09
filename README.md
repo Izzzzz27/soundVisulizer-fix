@@ -10,3 +10,6 @@ cd soundVisualizer-fix
 chmod +x visualizer.sh
 ```
 you can run it by ```./visualizer.sh```
+
+#Running on startup
+Go to Startup Applications > add this ```sh your/path/to/visualizer.sh```
