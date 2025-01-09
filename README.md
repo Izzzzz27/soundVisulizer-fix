@@ -1,7 +1,7 @@
 # soundVisulizer-fix
 This script turns on sound visualizer gnome extension when spotify is running and turns it off when spotify is not running.
 
-##Installation
+## Installation
 ```
 sudo apt update
 sudo apt install git
@@ -11,6 +11,6 @@ chmod +x visualizer.sh
 ```
 you can run it by ```./visualizer.sh```
 
-###Running on startup
+### Running on startup
 
 Go to Startup Applications > add this ```sh your/path/to/visualizer.sh```
