@@ -9,4 +9,4 @@ git clone https://github.com/Izzzzz27/soundVisulizer-fix
 cd soundVisualizer-fix
 chmod +x visualizer.sh
 ```
-you can run it by ./visualizer.sh
+you can run it by ```./visualizer.sh```
